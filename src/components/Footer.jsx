@@ -98,8 +98,8 @@ export default function Footer() {
 
         {/* App buttons */}
         <div className="flex justify-center gap-4 mt-4">
-          <img src="google1.png" className="w-28" />
-          <img src="app1.png" className="w-28" />
+          <img src="google1.png" alt="Gemlay logo" className="w-28" />
+          <img src="app1.png" alt="Gemlay logo" className="w-28" />
         </div>
       </div>
 
@@ -128,8 +128,8 @@ export default function Footer() {
             <FaFacebookF /> <FaInstagram /> <FaYoutube />
           </div>
           <div className="flex gap-3 mt-4">
-            <img src="google1.png" className="w-24" />
-            <img src="app1.png" className="w-24" />
+            <img src="google1.png" alt="Gemlay logo" className="w-24" />
+            <img src="app1.png"alt="Gemlay logo" className="w-24" />
           </div>
         </div>
       </div>
